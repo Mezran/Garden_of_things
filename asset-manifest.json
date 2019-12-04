@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Garden_of_things/static/css/main.496130fe.chunk.css",
+    "main.js": "/Garden_of_things/static/js/main.191e407e.chunk.js",
+    "main.js.map": "/Garden_of_things/static/js/main.191e407e.chunk.js.map",
+    "runtime-main.js": "/Garden_of_things/static/js/runtime-main.19b62f8b.js",
+    "runtime-main.js.map": "/Garden_of_things/static/js/runtime-main.19b62f8b.js.map",
+    "static/js/2.60d0153d.chunk.js": "/Garden_of_things/static/js/2.60d0153d.chunk.js",
+    "static/js/2.60d0153d.chunk.js.map": "/Garden_of_things/static/js/2.60d0153d.chunk.js.map",
+    "index.html": "/Garden_of_things/index.html",
+    "precache-manifest.5ea7a9a80e0de52c9f7416df27ebaaec.js": "/Garden_of_things/precache-manifest.5ea7a9a80e0de52c9f7416df27ebaaec.js",
+    "service-worker.js": "/Garden_of_things/service-worker.js",
+    "static/css/main.496130fe.chunk.css.map": "/Garden_of_things/static/css/main.496130fe.chunk.css.map",
+    "static/media/index.css": "/Garden_of_things/static/media/GardenOfThings.0d4a0955.png",
+    "static/media/fertilizer.png": "/Garden_of_things/static/media/fertilizer.23dd21ec.png",
+    "static/media/garden0.jpg": "/Garden_of_things/static/media/garden0.100e6e59.jpg",
+    "static/media/logo.svg": "/Garden_of_things/static/media/logo.25bf045c.svg",
+    "static/media/sun.png": "/Garden_of_things/static/media/sun.e145e988.png",
+    "static/media/water-drop.png": "/Garden_of_things/static/media/water-drop.aef2215c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19b62f8b.js",
+    "static/js/2.60d0153d.chunk.js",
+    "static/css/main.496130fe.chunk.css",
+    "static/js/main.191e407e.chunk.js"
+  ]
+}
